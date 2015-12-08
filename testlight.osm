@@ -1,0 +1,52 @@
+<!--
+/* Copyright 2011 Bernhard R. Fischer, 2048R/5C5FFD47 <bf@abenteuerland.at>
+ *
+ * This file is part of smfilter.
+ *
+ * Smfilter is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, version 3 of the License.
+ *
+ * Smfilter is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with smfilter. If not, see <http://www.gnu.org/licenses/>.
+ */
+-->
+
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Bernhard R. Fischer'>
+   <node id='1' version='1' visible='true' timestamp='2008-07-25T11:12:13Z' lat='38.3' lon='25.1'>
+      <tag k='seamark:name' v='smfilter test object' />
+      <tag k='seamark:type' v='light_minor' />
+      <tag k='seamark:light:character' v='Fl' />
+      <tag k='seamark:light:period' v='8' />
+      <tag k='seamark:light:orientation' v='230' />
+      <tag k='seamark:light:category' v='directional' />
+      <tag k='seamark:light:radius' v='1.2' />
+      <tag k='seamark:light:1:sector_start' v='40'/>
+      <tag k='seamark:light:1:sector_end' v='70'/>
+      <tag k='seamark:light:1:colour' v='white'/>
+      <tag k='seamark:light:1:radius' v='1:10;:dashed;:solid:-10'/>
+      <tag k='seamark:light:2:sector_start' v='120'/>
+      <tag k='seamark:light:2:sector_end' v='190'/>
+      <tag k='seamark:light:2:colour' v='red'/>
+      <tag k='seamark:light:2:radius' v='.5:20;:10:suppress;:10:dashed;0.7:10:solid'/>
+      <tag k='seamark:light:3:sector_start' v='300'/>
+      <tag k='seamark:light:3:sector_end' v='20'/>
+      <tag k='seamark:light:3:colour' v='green'/>
+      <tag k='seamark:light:3:radius' v='.3:-25:suppress'/>
+      <tag k='seamark:light:4:sector_start' v='25'/>
+      <tag k='seamark:light:4:sector_end' v='35'/>
+      <tag k='seamark:light:4:colour' v='red'/>
+      <tag k='seamark:light:4:radius' v='1.5'/>
+      <tag k='seamark:light:5:sector_start' v='250'/>
+      <tag k='seamark:light:5:sector_end' v='300'/>
+      <tag k='seamark:light:5:colour' v='red;green'/>
+      <tag k='seamark:light:5:radius' v='1'/>
+   </node>
+</osm>
+
